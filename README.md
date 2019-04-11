@@ -1,7 +1,7 @@
 # skibidi
 
 ## About
-
+Using skibidi you can deploy your service easily
 
 ## Prerequisites
 * Python 3.*
