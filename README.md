@@ -16,14 +16,14 @@ git clone git@github.com:bigpandaio/ops-exercise.git
 ```bash
 git clone https://github.com/noisleahcim/skibidi
 ```
-3. Copy deploy.py and docker-compose.yml into ops-excercise directory:
+3. Copy deploy.py and docker-compose.yml into ops-exercise directory:
 ```bash
-cp ./skibidi/deploy.py ops-excercise/
-cp ./skibidi/docker-compose.yml ops-excercise/
+cp ./skibidi/deploy.py ./ops-exercise/
+cp ./skibidi/docker-compose.yml ./ops-exercise/
 ```
-4. Step into ops-excercise directory:
+4. Step into ops-exercise directory:
 ```bash
-cd ops-excercise
+cd ops-exercise
 ```
 5. Run deploy.py:
 ```bash
